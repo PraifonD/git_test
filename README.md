@@ -1,0 +1,1 @@
+This is Fond's first git project!
